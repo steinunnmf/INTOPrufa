@@ -54,7 +54,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );
-	cout << "Steinunn Marta Fridriks" << endl;
+	cout << "Steinunn Marta Fridriksd" << endl;
 	return 0;
 }
 
