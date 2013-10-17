@@ -40,7 +40,9 @@ int main( )
 		cout << "                      2. Birta reglurnar i NIM" << endl;
 		cout << "                      3. Haetta " << endl << endl;
 		cout << "                      Veldu 1, 2 eda 3:" << endl << endl;
-		cin >> val;
+		
+                cout << "Þetta var ekkert mal";
+                cin >> val;
 		switch ( val )
 		{
 		case 1:
