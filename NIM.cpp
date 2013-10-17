@@ -41,7 +41,7 @@ int main( )
 		cout << "                      3. Haetta " << endl << endl;
 		cout << "                      Veldu 1, 2 eda 3:" << endl << endl;
 		
-                cout << "Þetta var ekkert mal";
+                cout << "Þetta var ekkert mal" << endl;
                 cin >> val;
 		switch ( val )
 		{
